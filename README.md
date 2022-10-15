@@ -32,6 +32,11 @@ The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Storybook](https://storybook.js.org/)
+- [Turborepo](https://turborepo.org)
+- [Stitches](https://stitches.dev)
+- [Radix](https://www.radix-ui.com)
+
 
 ## :white_check_mark: Requirements
 
