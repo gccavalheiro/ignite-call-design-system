@@ -23,7 +23,7 @@ const Fallback = styled(Avatar.Fallback, {
   alignItems: 'center',
   justifyContent: 'center',
   backgroundColor: '$gray600',
-  color: '$gray800',
+  color: '$white',
 
   svg: {
     width: '$6',

@@ -25,8 +25,4 @@ export default {
   ],
 } as Meta<CheckboxProps>
 
-export const Primary: StoryObj<CheckboxProps> = {
-  args: {
-    placeholder: 'Digite seu nome',
-  },
-}
+export const Primary: StoryObj<CheckboxProps> = {}
