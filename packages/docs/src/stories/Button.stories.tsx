@@ -1,4 +1,4 @@
-import { StoryObj, Meta } from '@storybook/react'
+import type { StoryObj, Meta } from '@storybook/react'
 import { Button, ButtonProps } from '@ignite-ui/react'
 
 export default {
@@ -7,7 +7,7 @@ export default {
   args: {
     children: 'Enviar',
   },
-} as Meta
+} as Meta<ButtonProps>
 
 export const Primary: StoryObj<ButtonProps> = {}
 

@@ -1,12 +1,10 @@
-import { ComponentProps } from 'react'
-
+import { ComponentProps } from '@stitches/react'
 import { styled } from './styles'
 
 export const Button = styled('button', {
   fontFamily: '$default',
   backgroundColor: '$ignite300',
-  borderRadius: '$md',
-  padding: '$4',
+  borderRadius: '$sm',
   border: 0,
   fontWeight: '$bold',
   color: '$white',
